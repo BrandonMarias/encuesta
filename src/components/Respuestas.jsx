@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const Respuestas = ({ id, pregunta, respuesta, handleRespuesta }) => {
   return (
     <>
