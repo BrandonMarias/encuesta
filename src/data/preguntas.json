@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Cuanto te gusta programar?",
+        "id": 1
+    },
+    {
+        "pregunta": "¿Cuanto te gusta React?",
+        "id": 2
+    },
+    {
+        "pregunta": "¿Cuanto te gusta JavaScript?",
+        "id": 3
+    },
+    {
+        "pregunta": "¿Cuanto te gusta TypeScript?",
+        "id": 4
+    },
+    {
+        "pregunta": "¿Cuanto te gusta NodeJS?",
+        "id": 5
+    },
+    {
+        "pregunta": "¿Cuanto te gusta MongoDB?",
+        "id": 6
+    },
+    {
+        "pregunta": "¿Cuanto te gusta MySQL?",
+        "id": 7
+    },
+    {
+        "pregunta": "¿Cuanto te gusta PHP?",
+        "id": 8
+    },
+    {
+        "pregunta": "¿Cuanto te gusta Python?",
+        "id": 9
+    },
+    {
+        "pregunta": "¿Cuanto te gusta Java?",
+        "id": 10
+    }
+]
