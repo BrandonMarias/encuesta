@@ -4,7 +4,7 @@ import { Respuestas } from "./Respuestas";
 export const Encuesta = () => {
 
     const { handleRespuesta, handleSubmit, preguntasState } =
-        useEncuesta(preguntas);
+        useEncuesta();
 
     return (
         <>

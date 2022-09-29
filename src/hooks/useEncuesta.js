@@ -30,7 +30,12 @@ export const useEncuesta = () => {
             return;
         }
         console.log(preguntasState);
-        alert("Gracias por responder la encuesta");
+        const result = preguntasState.reduce((acc, { respuesta }) => {
+            return acc + respuesta;
+        }, 0);
+        alert(`Tu resultado es ${result}/${
+            preguntasState.length * 3
+        }`);
         setPreguntasState(preguntas);
     };
 
